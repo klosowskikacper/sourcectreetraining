@@ -11,7 +11,7 @@ Witam, serdecznie!!! :D
 
 <<<<<<< HEAD
 test. 
-=======
+=======.
 Hejooo!
 
 <<<<<<< HEAD
