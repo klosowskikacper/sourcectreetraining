@@ -36,14 +36,12 @@ UWAGA UWAGA
 Co mówi lama do lamy? XD
 
 polamimy?
-<<<<<<< HEAD
+
 zapalmy xd
-=======
+
 
 hahahaha
-<<<<<<< HEAD
->>>>>>> 94212988d531e1cc37c8289ec1142610325512b5
-=======
+
 
 
 co mówi ? xd
@@ -51,8 +49,4 @@ co mówi ? xd
 co za lamaaaaa :D
 
 może jakis wisielec? xD
-<<<<<<< HEAD
 
-=======
->>>>>>> 7bc8089553c7c852f3992859b973b58ba2f97430
->>>>>>> d0a67d3856c4f790c2969e683108d7c05854b382
