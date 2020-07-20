@@ -9,6 +9,6 @@ Rafał:
 3
 Kacper: 4
 
-Dominik:
+Dominik: 2
 
 Nikola:
