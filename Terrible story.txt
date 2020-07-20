@@ -10,3 +10,9 @@ Pochodził on z sosnowca.
 
 Jego rodzice byli
 
+<<<<<<< HEAD
+Tez z Sosnowca.
+
+
+=======
+>>>>>>> 7ccd3b0d1036bd87206d90fc867fdf1797290034
