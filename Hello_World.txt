@@ -1,3 +1,9 @@
+
 Witam, serdecznie!!! :D
 
+<<<<<<< HEAD
 test. 
+=======
+Hejooo!
+
+>>>>>>> 42ce67eed6d00eb66be093171e3f170ecd8be4e4
