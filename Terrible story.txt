@@ -36,4 +36,9 @@ UWAGA UWAGA
 Co mówi lama do lamy? XD
 
 polamimy?
+<<<<<<< HEAD
 zapalmy xd
+=======
+
+hahahaha
+>>>>>>> 94212988d531e1cc37c8289ec1142610325512b5
