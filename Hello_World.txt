@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-Witam, serdecznie!!! :Dx
-Hejooo!
-=======
+
 Witam, serdecznie!!! :D
->>>>>>> 987fef897a6d053d22c362b697b845503ab6a3d9
+
+Hejooo!
+
