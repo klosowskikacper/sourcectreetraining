@@ -2,6 +2,13 @@
 
 Witam, serdecznie!!! :D
 
+Hejooo!
+
+=======
+<<<<<<< HEAD
+
+Witam, serdecznie!!! :D
+
 <<<<<<< HEAD
 test. 
 =======
@@ -20,3 +27,4 @@ Witam, serdecznie!!! :D
 >>>>>>> 987fef897a6d053d22c362b697b845503ab6a3d9
 >>>>>>> 4d612d901d92dcd7e2bc31827beb650ac9e601c7
 >>>>>>> 22fbb8cbb658f82d68c72908b78659ed758f7b61
+>>>>>>> 3c63ee801e3a102e83ae51b5eee6b1e586a24256
