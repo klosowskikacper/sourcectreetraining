@@ -41,4 +41,11 @@ zapalmy xd
 =======
 
 hahahaha
+<<<<<<< HEAD
 >>>>>>> 94212988d531e1cc37c8289ec1142610325512b5
+=======
+
+co za lamaaaaa :D
+
+może jakis wisielec? xD
+>>>>>>> 7bc8089553c7c852f3992859b973b58ba2f97430
