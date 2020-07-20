@@ -2,5 +2,19 @@ Witam, serdecznie!!! :D
 
 Hejooo!
 
+<<<<<<< HEAD
+=======
+=======
+<<<<<<< HEAD
+
+Witam, serdecznie!!! :D
+
+<<<<<<< HEAD
+test. 
+=======.
+Hejooo!
+
+<<<<<<< HEAD
+>>>>>>> 7ccd3b0d1036bd87206d90fc867fdf1797290034
 No siemka! <3
 
